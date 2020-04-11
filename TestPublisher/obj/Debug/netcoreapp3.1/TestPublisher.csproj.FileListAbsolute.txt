@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.exe
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.AssemblyInfo.cs
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.deps.json
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.runtimeconfig.json
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.runtimeconfig.dev.json
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.dll
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\TestPublisher.pdb
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.csproj.CopyComplete
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.dll
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.pdb
+C:\Users\prade\source\repos\RabbitMQ.Microservices\TestPublisher\obj\Debug\netcoreapp3.1\TestPublisher.genruntimeconfig.cache

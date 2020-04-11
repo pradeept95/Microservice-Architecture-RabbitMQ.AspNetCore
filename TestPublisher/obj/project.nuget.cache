@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7Zx7l4Zs0uxBCTIcmowkxbbBN/rHLm4vCvMvyLpbqW3Y3h4SfZHmPTlGj58LXFFjtj/a1egw58zC+os2s1Ptw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prade\\source\\repos\\RabbitMQ.Microservices\\TestPublisher\\TestPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
